@@ -6,4 +6,4 @@ Codepath Lab 6
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://github.com/leviwp48/CodePathLab6/blob/master/CodePathLab6.gif" > Video Walkthrough </img>
+<img src="https://github.com/leviwp48/CodePathLab6/blob/master/CodePathLab6.gif" />
