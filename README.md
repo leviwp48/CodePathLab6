@@ -1,6 +1,4 @@
-android-google-maps-demo
-========================
-Codepath Lab 6
+# android-google-maps-demo
 
 This is a simple application that accesses the Google Maps API. It allows the user to view Google's map and place a marker with a custom message anywhere they would like. They can then move their marker anywhere on the map. 
 
